@@ -1,0 +1,28 @@
+{
+  "name": "SpreadSheetJS",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cometofsky/SpreadSheetJS",
+  "authors": [
+    "Md Faozul Azim Rafi <me@rafi.pro>"
+  ],
+  "description": "Spread sheet plugin using jQuery",
+  "main": "spreadsheet.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "spreadsheet",
+    "spread",
+    "sheet",
+    "jQuery",
+    "plugin"
+  ],
+  "license": "None",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
