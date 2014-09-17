@@ -1,4 +1,0 @@
-SpreadSheetJS
-=============
-
-Spreadsheet with jQuery
