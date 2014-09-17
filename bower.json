@@ -1,0 +1,28 @@
+{
+  "name": "spreadsheetjs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cometofsky/SpreadSheetJS",
+  "authors": [
+    "Ibrahim-Islam <ibrahim.islam@live.com>",
+    "Md Faozul Azim Rafi <me@rafi.pro>"
+  ],
+  "description": "jquery plugin for a grid",
+  "main": "spreadsheet.js",
+  "keywords": [
+    "plugin",
+    "grid",
+    "datatable"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "packages",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
